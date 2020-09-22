@@ -1,4 +1,7 @@
+import math
 #import super computer AI
 #Use AI
 print ("Hello World")
-
+math.pi = 3
+print (math.pi)
+print ("Explain this atheists")
